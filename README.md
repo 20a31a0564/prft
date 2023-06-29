@@ -6,7 +6,7 @@ This is a web based application developed for online education based website in 
 
 
 **Project Link** - [http://teluguhealth.southindia.cloudapp.azure.com/](https://witty-forest-02543de00.3.azurestaticapps.net/)
-**Video link** - 
+**Video link** - https://youtu.be/8UOZka-fVfQ
 
 
 ## Features and Functionalities 😃
