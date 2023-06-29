@@ -20,17 +20,13 @@ This is a web based application developed for online education based website in 
 ## Screenshots
 
 
+### Info -
+
+
 ![Screenshot (32)](https://github.com/20a31a0564/prft/assets/110079916/a1ea34cf-720b-4f5b-b658-e1e9fe35b1c6)
 
 
  ![image](https://github.com/20a31a0564/prft/assets/110079916/a035edae-a680-42dc-90e4-a50e83f16f39)
-
-
-
-
-   
-
-### Info -
 
 
 
