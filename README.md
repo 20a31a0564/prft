@@ -52,6 +52,6 @@ This is a web based application developed for online education based website in 
 
 ## Tech Stack 💻
 
-- [[Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)](https://witty-forest-02543de00.3.azurestaticapps.net/)https://witty-forest-02543de00.3.azurestaticapps.net/
+- [[Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)](https://witty-forest-02543de00.3.azurestaticapps.net/)
 - HTML
 - CSS
