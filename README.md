@@ -40,7 +40,8 @@ This is a web based application developed for online education based website in 
 ### Education Bot -
 
 
-![Screenshot (37)](https://github.com/20a31a0564/prft/assets/110079916/2c9f759b-6117-4f90-9d2e-f9bea936889c)
+<img width="959" alt="Screenshot 2023-08-30 170442" src="https://github.com/20a31a0564/prft/assets/110079916/dac275aa-6492-48ea-907d-bfac9d45a8fb">
+
 
 
 ### Contact us -
@@ -52,6 +53,6 @@ This is a web based application developed for online education based website in 
 
 ## Tech Stack 💻
 
-- [[Azure(Hosting)](https://mango-wave-01521ed10.3.azurestaticapps.net/)]
+- [[Azure(Hosting)](https://mango-wave-01521ed10.3.azurestaticapps.net/)](https://mango-wave-01521ed10.3.azurestaticapps.net/)
 - HTML
 - CSS
