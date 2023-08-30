@@ -5,7 +5,7 @@ This is a web based application developed for online education based website in 
 ### This web based online education application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - [http://teluguhealth.southindia.cloudapp.azure.com/](https://witty-forest-02543de00.3.azurestaticapps.net/)
+**Project Link** - (https://20a31a0564.github.io/prft/)
 **Video link** - https://youtu.be/8UOZka-fVfQ
 
 
@@ -52,6 +52,6 @@ This is a web based application developed for online education based website in 
 
 ## Tech Stack 💻
 
-- [[Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)](https://witty-forest-02543de00.3.azurestaticapps.net/)
+- [[Azure(Hosting)](https://mango-wave-01521ed10.3.azurestaticapps.net/)]
 - HTML
 - CSS
